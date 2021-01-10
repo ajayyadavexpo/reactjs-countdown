@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-![alt text](https://github.com/AjayYadavAi/reactjs-todo/blob/main/img.png)
+![alt text](https://github.com/AjayYadavAi/reactjs-countdown/blob/main/img.png)
 
 ### `npm start`
 
