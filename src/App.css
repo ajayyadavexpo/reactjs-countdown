@@ -1,0 +1,76 @@
+body{
+    background-color: #368776 !important;
+}
+.time-card-layout{
+    padding-top: 50px;
+}
+.head{
+    color: #DBDEDE;
+    text-transform:uppercase;
+    padding-top: 50px;
+}
+.time-card{
+    background: #0B5D54;
+    color: #DBDEDE;
+    font-size: 23px;
+    width: 70px;
+    margin-left: 5px;
+    border-radius: 6px;
+    padding:15px;
+}
+.time-card p{
+    margin: 0px;
+}
+.w-100{ width: 100%;}
+.form-input{
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 3px solid #0B5D54;
+    width: 80%;
+    font-size: 18px;
+    padding-left: 5px;
+    margin-top: 50px;
+}
+input{
+    color: #DBDEDE;
+}
+.parent-card{
+    position: relative;
+    margin-top: 0px;
+    height: 100vh;
+}
+.button-card{
+    position: absolute;
+    bottom: 20px;
+}
+.button-card .col{
+    padding: 0px !important;
+}
+.btn{
+    border: none !important;
+    padding: 7px 14px !important;
+    border-radius: 20px !important;
+    font-size: 17px !important;
+    color: #DBDEDE !important;
+    width: 93px;
+    height: 40px;
+    font-weight: 500 !important;
+}
+.btn-stop{ background-color: #9B2A2A !important;}
+.btn-start{ background-color: #0B5D54 !important;}
+.btn-reset{ background-color:#879294 !important;}
+
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #DBDEDE;
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #DBDEDE;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  color: #DBDEDE;
+}
