@@ -83,7 +83,7 @@ class TimerComponent extends React.Component{
         return(
             <div className="container">
                 <div className="row justify-content-center">
-                    <div className="col-sm-4">
+                    <div className="col-lg-4 col-md-6 col-sm-8">
                         <div className="parent-card">
                             <h3 className="text-center head">Countdown</h3>
                             <div className="row text-center time-card-layout">
